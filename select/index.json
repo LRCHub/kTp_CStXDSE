@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SToRY",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-08T17:56:21.028663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ghost Story",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/01_Ghost_Story_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bedtime Story",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/02_Bedtime_Story_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Greatest Love Story",
+      "artist": "LANCO",
+      "has_synced": true,
+      "path": "select/03_Greatest_Love_Story_LANCO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/04_Love_Story_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/05_Love_Story_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_Love_Story_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Story (Taylor's Version) - Elvira Remix",
+      "artist": "Taylor Swift feat. ELVIRA",
+      "has_synced": true,
+      "path": "select/07_Love_Story_(Taylor's_Version)_-_Elvira_Remix_Taylor_Swift_feat._ELVIRA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Story (Taylor's Version) (Elvira Remix)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_Love_Story_(Taylor's_Version)_(Elvira_Remix)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Please Don't Tell Me How the Story Ends",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/09_Please_Don't_Tell_Me_How_the_Story_Ends_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Small Town Story",
+      "artist": "Scotty McCreery",
+      "has_synced": true,
+      "path": "select/10_Small_Town_Story_Scotty_McCreery.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Story of Love",
+      "artist": "Desert Rose Band",
+      "has_synced": true,
+      "path": "select/11_Story_of_Love_Desert_Rose_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunrise Tells The Story",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/12_Sunrise_Tells_The_Story_Midland.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "That's My Story",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/13_That's_My_Story_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That's My Story (Album Version)",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/14_That's_My_Story_(Album_Version)_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "That's My Story (Album Version)",
+      "artist": "Collin Raye",
+      "has_synced": false,
+      "path": "select/15_That's_My_Story_(Album_Version)_Collin_Raye.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SToRY",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_SToRY_Leo_need.txt"
+    }
+  ]
+}
